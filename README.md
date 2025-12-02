@@ -2,4 +2,4 @@
 
 
 ## voorbeeld
-<img src="../SHOOT.gif">
+<img src="SHOOT.gif">
